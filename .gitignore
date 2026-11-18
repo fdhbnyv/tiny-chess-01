@@ -20,3 +20,11 @@ transcripts.tar.gz
 *.pyc
 __pycache__/
 main_route_a.py
+tmp*
+b85*
+compact*
+make_route_b.py
+minify_test.py
+pesto_*
+temp_*
+main_route_*.py
