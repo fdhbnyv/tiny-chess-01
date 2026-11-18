@@ -1,0 +1,15 @@
+tiny-chess-01-kit/
+local_state/
+eval_state_*/
+eval_*.py
+eval_engine.py
+src_engine*.py
+test*.py
+check*.py
+analyze*.py
+replay*.py
+inspect*.py
+sunfish_pst.py
+pack_entry.sh
+*.pyc
+__pycache__/
