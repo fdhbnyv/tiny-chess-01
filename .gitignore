@@ -9,7 +9,13 @@ check*.py
 analyze*.py
 replay*.py
 inspect*.py
+find_*.py
+print_*.py
+export_session.py
+session_antigravity.jsonl
 sunfish_pst.py
 pack_entry.sh
+system_prompt.txt
+transcripts.tar.gz
 *.pyc
 __pycache__/
