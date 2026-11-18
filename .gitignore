@@ -19,3 +19,4 @@ system_prompt.txt
 transcripts.tar.gz
 *.pyc
 __pycache__/
+main_route_a.py
